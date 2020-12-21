@@ -1,0 +1,2 @@
+# sniker
+juego grupal
